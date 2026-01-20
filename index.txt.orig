@@ -1,6 +1,8 @@
 Hari ini hari selasa
+Ini dari branch fitur
 <<<<<<< HEAD
 ini dari branch main
+Ini dari branch main yang kedua
 =======
-Ini dari branch fitur
+Ini dari branch fitur-test yang kedua
 >>>>>>> fitur-test
