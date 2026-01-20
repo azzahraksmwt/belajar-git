@@ -1,0 +1,6 @@
+Hari ini hari selasa
+<<<<<<< HEAD
+ini dari branch main
+=======
+Ini dari branch fitur
+>>>>>>> fitur-test
