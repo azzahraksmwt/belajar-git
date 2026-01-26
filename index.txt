@@ -1,6 +1,14 @@
 Hari ini hari selasa
 Ini dari branch fitur
 Ini dari branch fitur-test yang kedua
+
+ini dari fitur-test 
+penambahan di hari senin
+test restore
+
+try detach head
+Ini dari branch fitur
+Ini dari branch fitur-test yang kedua
 ini dari branch main
 Ini dari branch main yang kedua
 Ini dari p4merge
